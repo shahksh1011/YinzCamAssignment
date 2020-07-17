@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">YinzCamAssignment</string>
+    <string name="print_series">Print Series</string>
+    <string name="enter_num_in_range_0_1000">Enter num in range 0-1000</string>
+</resources>
